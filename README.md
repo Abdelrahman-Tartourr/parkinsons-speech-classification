@@ -66,17 +66,6 @@ jupyter notebook parkinsons-speech-classification.ipynb
 
 Download `pd_speech_features.csv` from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) and place it in the project root before running.
 
-## Project structure
-
-```
-parkinsons-speech-classification/
-├── parkinsons-speech-classification.ipynb
-├── requirements.txt
-├── images/
-│   ├── confusion_matrix.png
-│   └── feature_importance.png
-└── README.md
-```
 
 ## Tech stack
 
