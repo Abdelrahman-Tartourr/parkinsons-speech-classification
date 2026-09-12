@@ -40,7 +40,7 @@ Random Forest with 50 features is essentially tied with using all 752 features, 
 
 **Held-out test set** (51 unseen subjects, 152 recordings): 78.9% accuracy, 68.5% balanced accuracy.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix]([images/confusion_matrix.png](https://github.com/Abdelrahman-Tartourr/parkinsons-speech-classification/blob/main/confusion_matrix.png))
 
 The gap between the 5-fold CV estimate (~72% balanced accuracy) and the single held-out split (~69%) is expected sampling noise from a small test set (51 subjects) — the CV number is the more reliable estimate of real-world performance.
 
